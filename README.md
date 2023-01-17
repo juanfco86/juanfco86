@@ -3,11 +3,7 @@
 
 <img src="https://res.cloudinary.com/dgquecmyz/image/upload/v1673998312/Banner_de_LinkedIn_Sencillo_Tecnolog%C3%ADa_nyv43j.png" />
 
-I am a full stack developer. I have deepened muy knowledge and skills in web programing by completing Assembler's Master. 
-I have developed an extensive variety of programing proyects, both individually and in teamwork, always achieving satisfactory results. 
-I am passionate about new techologies and I love being up to date with the latest trends. 
-I consider myself a creative person who likes to work on projects that require logical thinking. 
-Certainly, I am a very hard worker and good communicator, who easily adapts to new situations and problem solving.
+I am a full-stack developer. I have deepened my knowledge and skills in web programming by completing Assembler's Master's. I have developed an extensive variety of programming projects, both individually and in teamwork, always achieving satisfactory results. I am passionate about new technologies and I love being up to date with the latest trends. I consider myself a creative person who likes to work on projects that require logical thinking. Certainly, I am a very hard worker and good communicator, who easily adapts to new situations and problem-solves.
 
 - 🌱 I’m currently learning **I’m currently learning mongoDB, Auth0 and Cloudinary**
 
