@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Juan Francisco Solano Pérez</h1>
-<h3 align="center">💻 Full Stack Developer</h3>
+<h3 align="center">💻 <b>Full Stack Developer</b></h3>
 
-- Hola mellamo Juan y lalalal Hola mellamo Juan y **Hola mellamo Juan y lalalal Hola mellamo Juan y lalalal 2**
+Bienvendio y welcomer a miii tikitiki tikitaka
+olee
+si
+
 
 - 🌱 I’m currently learning **I’m currently learning mongoDB, Auth0 and Cloudinary**
-
-- Hola mellamo Juan y lalalal 1 **Hola mellamo Juan y lalalal 1**
-
-- Hola mellamo Juan y lalalal Hola mellamo Juan y lalalal Hola mellamo Juan y lalalal 3 **Hola mellamo Juan y lalalal Hola mellamo Juan y lalalal Hola mellamo Juan y lalalal 3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/juanfco86?tab=repositories](https://github.com/juanfco86?tab=repositories)
 
