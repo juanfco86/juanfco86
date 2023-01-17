@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Francisco Solano Pérez</h1>
 <h3 align="center">💻 <b>Full Stack Developer</b></h3>
 
-<img src="https://res.cloudinary.com/dgquecmyz/image/upload/v1673998205/cld-sample-5.jpg" />
+<img src="https://res.cloudinary.com/dgquecmyz/image/upload/v1673998312/Banner_de_LinkedIn_Sencillo_Tecnolog%C3%ADa_nyv43j.png" />
 
 I am a full stack developer. I have deepened muy knowledge and skills in web programing by completing Assembler's Master. 
 I have developed an extensive variety of programing proyects, both individually and in teamwork, always achieving satisfactory results. 
