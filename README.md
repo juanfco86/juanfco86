@@ -5,7 +5,7 @@
 
 I am a full-stack developer. I have deepened my knowledge and skills in web programming by completing Assembler's Master's. I have developed an extensive variety of programming projects, both individually and in teamwork, always achieving satisfactory results. I am passionate about new technologies and I love being up to date with the latest trends. I consider myself a creative person who likes to work on projects that require logical thinking. Certainly, I am a very hard worker and good communicator, who easily adapts to new situations and problem-solves.
 
-- 🌱 I’m currently learning **I’m currently learning ESLint, Prettier and Jest**
+- 🌱 I’m currently learning **I’m currently learning Jest**
 
 - 👨‍💻 All of my projects are available at [https://github.com/juanfco86?tab=repositories](https://github.com/juanfco86?tab=repositories)
 
